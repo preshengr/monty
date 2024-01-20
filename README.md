@@ -36,7 +36,7 @@ Description: Implements functions related to freeing the memory allocated for th
 Description: Header file containing function prototypes, macros, and data structures used across different files.
 
 ### monty.h.gch
-Description: Precompiled header file for monty.h.
+Description: Precompiled header file for monty.h
 
 ### monty_main.c
 Description: Main entry point for the Monty interpreter.
